@@ -1,6 +1,7 @@
 ## Solutions to [TypeScript type challenges](https://github.com/type-challenges/type-challenges)
 
 - **Easy**
+
   - [4. Pick](easy/4.%20Pick.ts)
   - [7. Readonly](easy/7.%20Readonly.ts)
   - [11. Tuple to Object](easy/11.%20Tuple%20to%20Object.ts)
@@ -14,3 +15,6 @@
   - [3057. Push](easy/3057.%20Push.ts)
   - [3060. Unshift](easy/3060.%20Unshift.ts)
   - [3312. Parameters](easy/3060.%20Unshift.ts)
+
+- **Medium**
+  - [2. Get Return Type](medium/2.%20Get%20Return%20Type.ts)
