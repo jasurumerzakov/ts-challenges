@@ -18,3 +18,4 @@
 
 - **Medium**
   - [2. Get Return Type](medium/2.%20Get%20Return%20Type.ts)
+  - [3. Omit](medium/3.%20Omit.tss)
